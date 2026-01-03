@@ -47,9 +47,9 @@
 ---
 
 ### 🔗 Connect With Me
-- 💼 LinkedIn: https://linkedin.com/in/your-link
-- 🌐 Portfolio: https://your-portfolio-link
-- 🧠 LeetCode: https://leetcode.com/your-username
+- 💼 LinkedIn: https://www.linkedin.com/in/rishit-goyal-66512428b
+- 🌐 Portfolio: https://rishitgoyal06.netlify.app
+- 🧠 LeetCode: https://leetcode.com/u/Rishit_Goyal/
 
 ---
 
