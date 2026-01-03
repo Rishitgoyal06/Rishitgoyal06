@@ -34,10 +34,10 @@
 
 ---
 ### 📊 GitHub Stats
-![Rishit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rishitgoyal06&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github)
+
+![Rishit's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Rishitgoyal06&show_icons=true&theme=github-dark&hide_border=true&rank_icon=github)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Rishitgoyal06&theme=github-dark&hide_border=true)
-
 
 ---
 
