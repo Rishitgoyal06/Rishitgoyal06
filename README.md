@@ -35,7 +35,10 @@
 ---
 ### 📊 GitHub Stats
 
-![Rishit's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Rishitgoyal06&show_icons=true&theme=github-dark&hide_border=true&rank_icon=github)
+<img
+  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Rishitgoyal06&show_icons=true&theme=github-dark&hide_border=true&rank_icon=github"
+  alt="Rishit's GitHub Stats"
+/>
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Rishitgoyal06&theme=github-dark&hide_border=true)
 
