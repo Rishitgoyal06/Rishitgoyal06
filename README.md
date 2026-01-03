@@ -33,11 +33,11 @@
 👉 Check pinned repositories for details.
 
 ---
-
 ### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rishitgoyal06&show_icons=true&theme=github_dark" />
-</p>
+![Rishit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rishitgoyal06&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Rishitgoyal06&theme=github-dark&hide_border=true)
+
 
 ---
 
