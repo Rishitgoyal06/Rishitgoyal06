@@ -33,12 +33,6 @@
 👉 Check pinned repositories for details.
 
 ---
-### 🔥 GitHub Activity
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Rishitgoyal06/Rishitgoyal06/output/github-snake-dark.svg" />
-</p>
-
----
 
 ### 🐍 Contribution Graph
 <p align="center">
