@@ -34,8 +34,8 @@
 
 ---
 
-### 🐍 GitHub Streaks
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Rishitgoyal06&theme=dark)](https://git.io/streak-stats)
+### 🚀 GitHub Streaks
+[![GitHub Streak](https://github-readme-streak-stats-six-xi-87.vercel.app?user=Rishitgoyal06&theme=dark&hide_border=true&short_numbers=true)](https://git.io/streak-stats)
 
 ---
 
