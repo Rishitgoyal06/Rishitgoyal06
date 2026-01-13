@@ -34,6 +34,8 @@
 
 ---
 
+[![GitHub Streak](https://streak-stats.demolab.com/Rishitgoyal06DenverCoder1&theme=dark)](https://git.io/streak-stats)
+
 ### 🐍 Contribution Graph
 <p align="center">
   <img src="https://raw.githubusercontent.com/Rishitgoyal06/Rishitgoyal06/output/github-snake-dark.svg" />
