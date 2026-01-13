@@ -34,7 +34,10 @@
 
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com/Rishitgoyal06DenverCoder1&theme=dark)](https://git.io/streak-stats)
+### 🐍 GitHub Streaks
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Rishitgoyal06&theme=dark)](https://git.io/streak-stats)
+
+---
 
 ### 🐍 Contribution Graph
 <p align="center">
