@@ -26,7 +26,7 @@
 ---
 
 ### 📌 Featured Projects
-- ⚡ **EV Station Finder** – Next.js + Leaflet + Fast APIs  
+- ⚡ **EV Station Finder** – Next.js + Leaflet + Fast API
 - 🐦 **Flappy Bird Game** – JavaScript logic-based game  
 - 🧠 **Hackathon Project** – Team-based real-world solution  
 
