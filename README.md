@@ -48,7 +48,7 @@
 
 ### 🔗 Connect With Me
 - 💼 LinkedIn: https://www.linkedin.com/in/rishit-goyal-66512428b
-- 🌐 Portfolio:https://my-portfolio-sand-nu-83.vercel.app/
+- 🌐 Portfolio: https://my-portfolio-sand-nu-83.vercel.app/
 - 🧠 LeetCode: https://leetcode.com/u/Rishit_Goyal/
 
 ---
